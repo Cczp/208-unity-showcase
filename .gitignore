@@ -1,4 +1,6 @@
 /Assets/
+!/assets/
+!/assets/README.md
 /ProjectSettings/
 /208bridge/
 /Library/
